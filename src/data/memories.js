@@ -1,30 +1,92 @@
-/* Page 2 (galaxy stars) + Page 3 (book spread).
-   Our love story, moment by moment. Swap the /photos paths with your own
-   (drop files in /source-photos and run `npm run photos`). */
+```js
+/* Arif & Samia — Our Story
+   Relationship began: October 27, 2026
+*/
 
 export const MEMORIES = [
-  { key: 'm1', title: 'The Day We Met', date: 'Where it began', image: '/photos/love1.webp',
-    story: 'One ordinary day that quietly changed the course of my whole life.' },
-  { key: 'm2', title: 'Our First Date', date: 'The beginning', image: '/photos/love2.webp',
-    story: 'Nervous smiles, endless conversation, and a feeling I never wanted to end.' },
-  { key: 'm3', title: 'Falling For You', date: 'Slowly, then all at once', image: '/photos/love3.webp',
-    story: 'Somewhere between your laugh and your kindness, I lost my heart to you.' },
-  { key: 'm4', title: 'The Proposal', date: 'Forever, yes', image: '/photos/love4.webp',
-    story: 'A trembling question, a happy tear, and the easiest yes of our lives.' },
-  { key: 'm5', title: 'Our Wedding Day', date: 'I do', image: '/photos/love5.webp',
-    story: 'Surrounded by everyone we love, I promised you my always.' },
-  { key: 'm6', title: 'Just the Two of Us', date: 'Adventures', image: '/photos/love6.webp',
-    story: 'New places, shared skies, and the whole world feeling brighter beside you.' },
-  { key: 'm7', title: 'Our Little Home', date: 'Together', image: '/photos/love7.webp',
-    story: 'Bare rooms slowly filled with love, laughter, and the coffee we share.' },
-  { key: 'm8', title: 'Ordinary Magic', date: 'Everyday', image: '/photos/love8.webp',
-    story: 'Lazy mornings and quiet nights — the ordinary days I treasure most.' },
-  { key: 'm9', title: 'Through It All', date: 'Always', image: '/photos/love9.webp',
-    story: 'Every high, every low — always better because I face them holding your hand.' },
-  { key: 'm10', title: 'Still Falling', date: 'Every day', image: '/photos/love3.webp',
-    story: 'After all this time, my heart still skips the moment you walk in.' },
-  { key: 'm11', title: 'You & Me', date: 'Our favorite place', image: '/photos/love7.webp',
-    story: 'Wherever you are is exactly where I am meant to be.' },
-  { key: 'm12', title: 'Forever & Always', date: 'To be continued', image: '/photos/love9.webp',
-    story: 'Still writing our story — and I can’t wait for every page still to come.' },
-]
+  {
+    key: 'm1',
+    title: 'Where It All Began',
+    date: 'A Messenger Group Chat',
+    image: '',
+    story: 'It all began in a Messenger group chat. Neither of us knew how this simple introduction would become the beginning of a new chapter in our lives.'
+  },
+  {
+    key: 'm2',
+    title: 'A New Beginning',
+    date: 'October 27, 2026',
+    image: '',
+    story: 'October 27, 2026 — the day our relationship began. A new chapter started, carrying new feelings, new hopes, and the possibility of beautiful memories.'
+  },
+  {
+    key: 'm3',
+    title: 'Day One',
+    date: 'The First Day of Us',
+    image: '',
+    story: 'Every beautiful journey starts somewhere. This is Day One of our story, and there are still so many pages left to write.'
+  },
+  {
+    key: 'm4',
+    title: 'Arif & Samia',
+    date: 'Two Names, One Story',
+    image: '',
+    story: 'Two different people, two different lives, and one unexpected connection. Today, Arif and Samia begin writing a story of their own.'
+  },
+  {
+    key: 'm5',
+    title: 'A Special Place',
+    date: 'A New Feeling',
+    image: '',
+    story: 'Some people slowly become special without even realizing it. Arif cares deeply for Samia, and this beginning means something precious to him.'
+  },
+  {
+    key: 'm6',
+    title: 'Little by Little',
+    date: 'A Journey Begins',
+    image: '',
+    story: 'There is no need to rush a beautiful story. Every conversation, every smile, and every new thing we learn about each other can become part of our journey.'
+  },
+  {
+    key: 'm7',
+    title: 'A Wish for You',
+    date: 'From Arif to Samia',
+    image: '',
+    story: 'Samia, Arif wishes you happiness, peace, and a life filled with beautiful moments. May you always find reasons to smile and strength to follow your dreams.'
+  },
+  {
+    key: 'm8',
+    title: 'Keep Smiling',
+    date: 'A Little Reminder',
+    image: '',
+    story: 'No matter what life brings, never forget your worth. You deserve kindness, peace, happiness, and all the good things life has to offer.'
+  },
+  {
+    key: 'm9',
+    title: 'Beautiful Days Ahead',
+    date: 'A Hope for Tomorrow',
+    image: '',
+    story: 'The future is still unwritten. May the days ahead bring wonderful experiences, personal growth, and countless reasons to be happy.'
+  },
+  {
+    key: 'm10',
+    title: 'Stay Happy',
+    date: 'A Message from Arif',
+    image: '',
+    story: 'Samia, always stay happy. Take care of yourself, keep smiling, and never stop working toward the life you dream of.'
+  },
+  {
+    key: 'm11',
+    title: 'Live a Good Life',
+    date: 'A Heartfelt Wish',
+    image: '',
+    story: 'Arif wishes Samia a good life filled with peace, success, love, and happiness. Whatever tomorrow brings, may you always have beautiful things to look forward to.'
+  },
+  {
+    key: 'm12',
+    title: 'Our Story Starts Here',
+    date: 'Day One — To Be Continued',
+    image: '',
+    story: 'This is only the beginning, Samia. Our story has just started, and the future is full of unwritten pages. Stay happy, live a good life, and always remember that Arif wishes the very best for you.'
+  }
+];
+```
