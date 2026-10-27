@@ -1,11 +1,13 @@
-/* Page 3 — the 6 photos inside the opened anniversary book.
-   Swap the /photos paths with your own (drop files in /source-photos → npm run photos). */
+```js
+/* Page 3 — Arif & Samia's anniversary book.
+   Photo slots are left empty as requested. */
 
 export const BOOK_PHOTOS = [
-  { image: '/photos/love1.webp', label: 'Us' },
-  { image: '/photos/love4.webp', label: 'The Proposal' },
-  { image: '/photos/love5.webp', label: 'Our Day' },
-  { image: '/photos/love6.webp', label: 'Adventures' },
-  { image: '/photos/love9.webp', label: 'Always' },
-  { image: '/photos/love8.webp', label: 'Forever' },
-]
+  { image: '', label: 'Our Beginning' },
+  { image: '', label: 'Day One' },
+  { image: '', label: 'Arif & Samia' },
+  { image: '', label: 'Beautiful Memories' },
+  { image: '', label: 'Stay Happy' },
+  { image: '', label: 'Our Story Continues' },
+];
+```
