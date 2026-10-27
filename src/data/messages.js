@@ -1,19 +1,21 @@
-/* Page 3 — Love notes (shown as quote cards; no author labels). */
+```js
+/* Floating love quotes for Arif & Samia's Memory Universe. */
 
-export const MESSAGES = [
-  {
-    from: 'From Me',
-    text:
-      'From the moment I met you, I knew my life would never be the same. Thank you for being my person, my calm, my home, my everything.',
-  },
-  {
-    from: 'From Me',
-    text:
-      'Every day with you is a gift I never take for granted. You turn the most ordinary moments into memories I hold onto forever.',
-  },
-  {
-    from: 'From Me',
-    text:
-      'Here’s to us — to the love we’ve built and every beautiful year still ahead. I love you more today than I did yesterday, and less than I will tomorrow.',
-  },
-]
+export const QUOTES = [
+  'Samia, you will always be someone special to Arif.',
+  'Every beautiful story has a beginning. This is ours.',
+  'October 27, 2026 — the first page of our story.',
+  'Some connections begin in the most unexpected places.',
+  'A simple group chat brought two lives together.',
+  'Arif wishes Samia a life full of happiness and peace.',
+  'Stay happy, Samia. Never stop smiling.',
+  'May your life always be filled with beautiful moments.',
+  'You deserve happiness, kindness, and a peaceful life.',
+  'The best chapters of life are still waiting to be written.',
+  'May tomorrow bring you more reasons to smile.',
+  'No matter where life takes you, keep following your dreams.',
+  'A new beginning, a new chapter, and countless possibilities.',
+  'May your heart always find reasons to be happy.',
+  'Stay happy. Live a good life. — Arif 💜',
+];
+```
