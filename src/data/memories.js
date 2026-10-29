@@ -1,5 +1,5 @@
 ```js
-/* Arif & Samia — Our Story
+/* Arif & Samia — Our Story.
    Relationship began: October 27, 2026
 */
 
