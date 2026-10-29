@@ -18,6 +18,5 @@ export const COUPLE = {
 }
 
 export const MEDIA = {
-  // Background music
-  music: '/music/background.mp3',
+  music: '/audio/piano.mp3',
 }
