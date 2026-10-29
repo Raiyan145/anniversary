@@ -2,7 +2,7 @@ import { useMemo, useRef, useState } from 'react'
 import { useFrame } from '@react-three/fiber'
 import { Billboard, useTexture } from '@react-three/drei'
 import * as THREE from 'three'
-import { MEMORIES } from '../../data/memories'
+import { MEMORIES } from '../../data/memories.js'
 import { img } from '../../lib/placeholder'
 
 /** Distribute points on a sphere (Fibonacci) for an even, galactic spread. */
