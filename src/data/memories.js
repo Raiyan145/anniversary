@@ -89,4 +89,5 @@ export const MEMORIES = [
     story: 'This is only the beginning, Samia. Our story has just started, and the future is full of unwritten pages. Stay happy, live a good life, and always remember that Arif wishes the very best for you.'
   }
 ];
+// Ensure the memories data is exported.
 ```
